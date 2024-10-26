@@ -12,7 +12,7 @@ title                    : "Du Fengchen's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Du Fengchen"
 description              : &description "personal description"
-url                      : https://dfc0730.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://dfc0730.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
