@@ -13,4 +13,4 @@ I participated in several competitions during my undergraduate studies, includin
 
 You can find my CV here:[Dufengchen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
-[Email](dfc2100645639@outlook.com)/[Github](https://github.com/dfc0730)/[Wechat](../images/wechat.jpg)/[CSDN](https://blog.csdn.net/qq_62675353?type=blog)
+[Email](mailto:212210301111@stu.just.edu.cn)/[Github](https://github.com/dfc0730)/[Wechat](../images/wechat.jpg)/[CSDN](https://blog.csdn.net/qq_62675353?type=blog)
